@@ -1,2 +1,2 @@
-# yaoxiaoxi.github.io
-blog with markdown
+# README.md of yaoxiaoxi.github.io
+blog of README.md in markdown.
