@@ -48,6 +48,16 @@
 - TREASURE - HELLO
 - TREASURE - JIKJIN
 - TXT - GOOD BOY GONE BAD
+- Ateez - Cyberpunk
+- ATEEZ - Halazia
+- Max Changmin - Devil
+- TXT - Opening Sequence
+- Kim MinSeok - DrunKen Confession
+- MeloMance - Love, Maybe
+- Lim Young Woong - Love Always Runs Away
+- BIG Naughty - Beyond Love (Feat. 10CM)
+- Lee Mujin - Traffic Light
+- sokodomo - Merry-Go-Round (Feat. Zion.T, Wonstein) (Prod. Slom)
 
 
 

@@ -59,54 +59,37 @@
 - WEEEKLY - VEN PARA
 - NewJeans - Ditto
 - Kwon Eunbi - Glitch
+- woo!ah! - Catch the Stars
+- Aespa - Illusion
+- Rocket Punch - Chiquita
+- LE SSERAFIM - Blue Flame
+- STAYC - Young Luv
+- CSR - Pop? Pop!
+- LE SSERAFIM - Impurities
+- Kwon Eunbi - Underwater
+- KARA - When I Move
+- woo!ah! - Rollercoaster
+- Seulgi - 28 Reasons
+- Cherry Bullet - Love In Space
+- WJSN - Last Sequence
+- FIFTY FIFTY - Higher
+- Taeyeon - Toddler
+- Youha - Last Dance
+- IVE - ELEVEN
+- GyeongseoYeji, Jeon Gunho - If you lovingly call my name
 
 
 
-| Rank | Points | Title                         | Count | Percentage | Average |
-| ---- | ------ | ----------------------------- | ----- | ---------- | ------- |
-| 13   | 162    | woo!ah! - Catch the Stars     | 24    | 10.21%     | 4.25    |
-| 14   | 154    | Aespa - Illusion              | 23    | 9.79%      | 4.30    |
-| 15   | 148    | Rocket Punch - Chiquita       | 26    | 11.06%     | 5.31    |
-| 27   | 94     | LE SSERAFIM - Blue Flame      | 18    | 7.66%      | 5.78    |
-| 28   | 92     | STAYC - Young Luv             | 16    | 6.81%      | 5.25    |
-| 32   | 75     | Ateez - Cyberpunk             | 13    | 5.53%      | 5.23    |
-| 33   | 73     | CSR - Pop? Pop!               | 13    | 5.53%      | 5.38    |
-| 34   | 70     | LE SSERAFIM - Impurities      | 15    | 6.38%      | 6.33    |
-| 35   | 69     | Kwon Eunbi - Underwater       | 15    | 6.38%      | 6.40    |
-| 37   | 67     | KARA - When I Move            | 15    | 6.38%      | 6.53    |
-| 37   | 67     | woo!ah! - Rollercoaster       | 14    | 5.96%      | 6.21    |
-| 39   | 66     | ATEEZ - Halazia               | 9     | 3.83%      | 3.67    |
-| 39   | 66     | Seulgi - 28 Reasons           | 16    | 6.81%      | 6.88    |
-| 43   | 64     | Cherry Bullet - Love In Space | 11    | 4.68%      | 5.18    |
 
 
 
-
-
-| 44   | 64     | WJSN - Last Sequence          | 15    | 6.38%      | 6.73    |
-| 45   | 63     | (G)I-DLE - Nxde               | 16    | 6.81%      | 7.06    |
-| 46   | 61     | FIFTY FIFTY - Higher          | 10    | 4.26%      | 4.90    |
-| 47   | 58     | Max Changmin - Devil          | 9     | 3.83%      | 4.56    |
-| 47   | 58     | TXT - Opening Sequence        | 11    | 4.68%      | 5.73    |
-| 49   | 56     | BIGBANG - Still Life          | 8     | 3.40%      | 4.00    |
-| 49   | 56     | Taeyeon - Toddler             | 8     | 3.40%      | 4.00    |
-| 49   | 56     | Youha - Last Dance            | 9     | 3.83%      | 4.78    |
 
 | **#** | **Song Title** | **Artist** |
 | --- | --- | --- |
-| 1 | LOVE DIVE | IVE |
-| 2 | TOMBOY | (G)I-DLE |
-| 3 | DrunKen Confession | Kim MinSeok (MeloMance) |
-| 4 | Love, Maybe | MeloMance |
-| 5 | Love Always Runs Away | Lim Young Woong |
-| 6 | ELEVEN | IVE |
-| 7 | Still Life | BIGBANG |
-| 8 | If you lovingly call my name | GyeongseoYeji, Jeon Gunho |
-| 9 | That That (prod. & feat. SUGA of BTS) | PSY |
-| 10 | Beyond Love (Feat. 10CM) | BIG Naughty |
-| 11 | Traffic Light | Lee Mujin |
-| 12 | INVU | TAEYEON |
-| 13 | Merry-Go-Round (Feat. Zion.T, Wonstein) (Prod. Slom) | sokodomo |
+| 8 |  |
+| 10 |  |
+| 11 |  |
+| 13 |  |
 | 14 | Feel My Rhythm | Red Velvet |
 | 15 | Hype Boy | NewJeans |
 | 16 | GANADARA (Feat. IU) | Jay Park |
@@ -166,7 +149,6 @@
 | 75 | If We Ever Meet Again | Lim Young Woong |
 | 77 | Winter Sleep | IU |
 | 78 | Shut Down | BLACKPINK |
-| 79 | Nxde | (G)I-DLE |
 | 80 | Dun Dun Dance | OH MY GIRL |
 | 81 | Drawer | 10CM |
 | 83 | Twenty-five, twenty-one | JAURIM |
@@ -246,7 +228,6 @@ Hurt - 36,941,847
 
 IVE:
 
-Love Dive - 209,964,709
 
 After Like - 142,629,591
 
@@ -260,9 +241,7 @@ After Like (Holiday Remix) - 1,552,974
 
 (G)I-DLE:
 
-Tomboy - 137,177,201
 
-Nxde - 71,797,388
 
 My Bag - 59,440,118
 
@@ -284,13 +263,12 @@ Love - 3,226,421
 
 Dark (x-file) - 2,941,583
 
-Tomboy (R3hab Remix) - 2,421,293
 
 Reset - 2,224,074
 
 Sculpture - 2,130,438
 
-Nxde (Steve Aoki Remix) - 687,629
+
 
 
 
