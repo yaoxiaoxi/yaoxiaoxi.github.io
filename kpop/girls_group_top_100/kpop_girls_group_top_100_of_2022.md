@@ -91,79 +91,79 @@ NewJeans - Hype Boy
 Jay Park - GANADARA (Feat. IU)
 IVE - After LIKE
 KyoungSeo - Dear my X
-WSG WANNABE (Gaya-G) - At That Moment 
-BE'O - LOVE me 
-aespa - Next Level 
-BE'O - Limousine (Feat. MINO) (Prod. GRAY) 
-IU - Drama 
-IU - Strawberry Moon 
-Sung Si Kyung - Every moment of you 
-Juho - without me 
-MSG WANNABE (M.O.M) - Do you want to hear 
-Joosiq - Think About You 
-BTS - Dynamite 
-WSG WANNABE (4FIRE) - I Missed You 
-TAEYEON - Weekend 
-LE SSERAFIM - FEARLESS 
-BTS - Butter 
-BLACKPINK - Pink Venom 
-Kassy - Always love you 
-KyoungSeo - Shiny Star (2020) 
-ZICO - New Thing (Prod. ZICO) (Feat. Homies) 
-BE'O - Counting Stars (Feat. Beenzino) 
-Paul Kim - Every Day, Every Moment 
-Lee Mujin - When it snows (Feat. Heize) 
-Lim Young Woong - Trust in Me 
-D-Hack, PATEKO - OHAYO MY NIGHT 
-IU - Hold my hand 
-BTS - Permission to Dance 
-Lim Young Woong - Our Blues, Our Life 
-MSG WANNABE (M.O.M) - Foolish Love 
-YOUNHA - Event Horizon 
-IU - Celebrity 
-(G)I-DLE - MY BAG 
-aespa - Savage 
-10CM - Gradation 
-Tophyun - Horangsuwolga 
-IU - LILAC 
-BTS - Spring Day 
-BE'O - Suddenly 
-aespa - Dreams Come True 
-AKMU - How can I love the heartbreak, you're the one I love 
-BOL4 - Love story 
-Basick - Meeting is easy, parting is hard (Feat. Leellamarz) (Prod. TOIL) 
-Homies - Siren Remix (Feat. UNEDUCATED KID, Paul Blanco) 
-Joosiq - Baby I Need You 
-An Nyeong - Haeyo (2022) 
-IU - Blueming 
-MAKTUB - The Eternal Moment 
-MeloMance - Go Back 
-ITZY - SNEAKERS 
-Brave Girls - Rollin' 
-Heize - HAPPEN 
-NewJeans - Cookie 
-Lim Young Woong - If We Ever Meet Again 
-IU - Winter Sleep 
-BLACKPINK - Shut Down 
-OH MY GIRL - Dun Dun Dance 
-10CM - Drawer 
-JAURIM - Twenty-five, twenty-one 
-LE SSERAFIM - ANTIFRAGILE 
-Kassy - Don't wanna leave tonight 
-AKMU - NAKKA (with IU) 
-Jessi - ZOOM 
-Crush - Rush Hour (Feat. j-hope of BTS) 
-Kim Seungmin - My Pleasure Is That You Ride The Bentley 
-Whee In - You, you (Nth Romance X Whee In) 
-BTS - Yet To Come 
-V - Christmas Tree 
-Lim Young Woong - Rainbow 
-Tei - Monologue 
-MAKTUB - To You My Light (Feat. Lee Raon) 
-Wonstein - Your Existence 
-Sandeul - Slightly Tipsy (She is My Type♡ X SANDEUL) 
-BIBI - Maybe If 
-Jung Dong Ha - I Still Love You 
+WSG WANNABE (Gaya-G) - At That Moment
+BE'O - LOVE me
+aespa - Next Level
+BE'O - Limousine (Feat. MINO) (Prod. GRAY)
+IU - Drama
+IU - Strawberry Moon
+Sung Si Kyung - Every moment of you
+Juho - without me
+MSG WANNABE (M.O.M) - Do you want to hear
+Joosiq - Think About You
+BTS - Dynamite
+WSG WANNABE (4FIRE) - I Missed You
+TAEYEON - Weekend
+LE SSERAFIM - FEARLESS
+BTS - Butter
+BLACKPINK - Pink Venom
+Kassy - Always love you
+KyoungSeo - Shiny Star (2020)
+ZICO - New Thing (Prod. ZICO) (Feat. Homies)
+BE'O - Counting Stars (Feat. Beenzino)
+Paul Kim - Every Day, Every Moment
+Lee Mujin - When it snows (Feat. Heize)
+Lim Young Woong - Trust in Me
+D-Hack, PATEKO - OHAYO MY NIGHT
+IU - Hold my hand
+BTS - Permission to Dance
+Lim Young Woong - Our Blues, Our Life
+MSG WANNABE (M.O.M) - Foolish Love
+YOUNHA - Event Horizon
+IU - Celebrity
+(G)I-DLE - MY BAG
+aespa - Savage
+10CM - Gradation
+Tophyun - Horangsuwolga
+IU - LILAC
+BTS - Spring Day
+BE'O - Suddenly
+aespa - Dreams Come True
+AKMU - How can I love the heartbreak, you're the one I love
+BOL4 - Love story
+Basick - Meeting is easy, parting is hard (Feat. Leellamarz) (Prod. TOIL)
+Homies - Siren Remix (Feat. UNEDUCATED KID, Paul Blanco)
+Joosiq - Baby I Need You
+An Nyeong - Haeyo (2022)
+IU - Blueming
+MAKTUB - The Eternal Moment
+MeloMance - Go Back
+ITZY - SNEAKERS
+Brave Girls - Rollin'
+Heize - HAPPEN
+NewJeans - Cookie
+Lim Young Woong - If We Ever Meet Again
+IU - Winter Sleep
+BLACKPINK - Shut Down
+OH MY GIRL - Dun Dun Dance
+10CM - Drawer
+JAURIM - Twenty-five, twenty-one
+LE SSERAFIM - ANTIFRAGILE
+Kassy - Don't wanna leave tonight
+AKMU - NAKKA (with IU)
+Jessi - ZOOM
+Crush - Rush Hour (Feat. j-hope of BTS)
+Kim Seungmin - My Pleasure Is That You Ride The Bentley
+Whee In - You, you (Nth Romance X Whee In)
+BTS - Yet To Come
+V - Christmas Tree
+Lim Young Woong - Rainbow
+Tei - Monologue
+MAKTUB - To You My Light (Feat. Lee Raon)
+Wonstein - Your Existence
+Sandeul - Slightly Tipsy (She is My Type♡ X SANDEUL)
+BIBI - Maybe If
+Jung Dong Ha - I Still Love You
 
 
 
