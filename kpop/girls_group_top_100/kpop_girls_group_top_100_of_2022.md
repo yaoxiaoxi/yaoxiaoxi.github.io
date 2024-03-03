@@ -86,11 +86,11 @@
 
 | **#** | **Song Title** | **Artist** |
 | --- | --- | --- |
-Red Velvet - Feel My Rhythm 
-NewJeans - Hype Boy 
-Jay Park - GANADARA (Feat. IU) 
-IVE - After LIKE 
-KyoungSeo - Dear my X 
+Red Velvet - Feel My Rhythm
+NewJeans - Hype Boy
+Jay Park - GANADARA (Feat. IU)
+IVE - After LIKE
+KyoungSeo - Dear my X
 WSG WANNABE (Gaya-G) - At That Moment 
 BE'O - LOVE me 
 aespa - Next Level 
