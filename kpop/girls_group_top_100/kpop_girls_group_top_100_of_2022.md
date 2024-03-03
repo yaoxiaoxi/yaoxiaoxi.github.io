@@ -77,6 +77,10 @@
 - Youha - Last Dance
 - IVE - ELEVEN
 - GyeongseoYeji, Jeon Gunho - If you lovingly call my name
+- KyoungSeo - Dear my X
+- WSG WANNABE (Gaya-G) - At That Moment
+- aespa - Next Level
+- IU - Strawberry Moon
 
 
 
@@ -86,17 +90,7 @@
 
 | **#** | **Song Title** | **Artist** |
 | --- | --- | --- |
-Red Velvet - Feel My Rhythm
-NewJeans - Hype Boy
-Jay Park - GANADARA (Feat. IU)
-IVE - After LIKE
-KyoungSeo - Dear my X
-WSG WANNABE (Gaya-G) - At That Moment
-BE'O - LOVE me
-aespa - Next Level
-BE'O - Limousine (Feat. MINO) (Prod. GRAY)
-IU - Drama
-IU - Strawberry Moon
+
 Sung Si Kyung - Every moment of you
 Juho - without me
 MSG WANNABE (M.O.M) - Do you want to hear
@@ -193,7 +187,6 @@ LE SSERAFIM - Fearless (Japanese version) - 659,761
 
 
 
-NEWJEANS - Hype Boy - 153,162,111
 NEWJEANS - Cookie - 60,899,157
 NEWJEANS - Ditto - 37,227,537
 NEWJEANS - Hurt - 36,941,847
@@ -202,10 +195,8 @@ NEWJEANS - Hurt - 36,941,847
 
 
 
-IVE - After Like - 142,629,591
 IVE - Royal - 18,364,105
 IVE - My Satisfaction - 11,457,482
-IVE - After Like (Holiday Remix) - 1,552,974
 
 
 
