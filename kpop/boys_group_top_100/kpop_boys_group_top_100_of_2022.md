@@ -61,6 +61,66 @@
 - Jay Park - GANADARA (Feat. IU)
 - BE'O - LOVE me
 - BE'O - Limousine (Feat. MINO) (Prod. GRAY)
+- Sung Si Kyung - Every moment of you
+- Juho - without me
+- MSG WANNABE (M.O.M) - Do you want to hear
+- Joosiq - Think About You
+- BTS - Dynamite
+- BTS - Butter
+- ZICO - New Thing (Prod. ZICO) (Feat. Homies)
+- BE'O - Counting Stars (Feat. Beenzino)
+- Lim Young Woong - Trust in Me
+- D-Hack, PATEKO - OHAYO MY NIGHT
+- BTS - Permission to Dance
+- Lim Young Woong - Our Blues, Our Life
+- MSG WANNABE (M.O.M) - Foolish Love
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+
 
 
 

@@ -81,6 +81,51 @@
 - WSG WANNABE (Gaya-G) - At That Moment
 - aespa - Next Level
 - IU - Strawberry Moon
+- WSG WANNABE (4FIRE) - I Missed You
+- TAEYEON - Weekend
+- Kassy - Always love you
+- KyoungSeo - Shiny Star (2020)
+- Paul Kim - Every Day, Every Moment
+- Lee Mujin - When it snows (Feat. Heize)
+- IU - Hold my hand
+- YOUNHA - Event Horizon
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
 
 
@@ -91,29 +136,11 @@
 | **#** | **Song Title** | **Artist** |
 | --- | --- | --- |
 
-Sung Si Kyung - Every moment of you
-Juho - without me
-MSG WANNABE (M.O.M) - Do you want to hear
-Joosiq - Think About You
-BTS - Dynamite
-WSG WANNABE (4FIRE) - I Missed You
-TAEYEON - Weekend
-LE SSERAFIM - FEARLESS
-BTS - Butter
-BLACKPINK - Pink Venom
-Kassy - Always love you
-KyoungSeo - Shiny Star (2020)
-ZICO - New Thing (Prod. ZICO) (Feat. Homies)
-BE'O - Counting Stars (Feat. Beenzino)
-Paul Kim - Every Day, Every Moment
-Lee Mujin - When it snows (Feat. Heize)
-Lim Young Woong - Trust in Me
-D-Hack, PATEKO - OHAYO MY NIGHT
-IU - Hold my hand
-BTS - Permission to Dance
-Lim Young Woong - Our Blues, Our Life
-MSG WANNABE (M.O.M) - Foolish Love
-YOUNHA - Event Horizon
+
+
+
+
+
 IU - Celebrity
 (G)I-DLE - MY BAG
 aespa - Savage
@@ -162,7 +189,6 @@ Jung Dong Ha - I Still Love You
 
 
 
-BLACKPINK - Pink Venom - 352,670,953
 BLACKPINK - Shut Down - 253,879,232
 BLACKPINK - Typa Girl - 103,630,287
 BLACKPINK - Hard To Love - 69,994,810
@@ -174,7 +200,6 @@ BLACKPINK - Ready For Love - 45,129,982
 
 
 
-LE SSERAFIM - Fearless - 145,235,908
 LE SSERAFIM - Antifragile - 106,453,009
 LE SSERAFIM - Sour Grape - 54,442,610
 LE SSERAFIM - Good Parts (when the quality is bad but i am) - 15,080,609
