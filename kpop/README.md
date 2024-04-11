@@ -1,5 +1,5 @@
 # kpop
 Korea Pop Music
 
-reference
-    https://www.reddit.com/r/kpop/
+reference<br />
+&emsp;&emsp;[reddit 的 kpop 话题](https://www.reddit.com/r/kpop)<br />
