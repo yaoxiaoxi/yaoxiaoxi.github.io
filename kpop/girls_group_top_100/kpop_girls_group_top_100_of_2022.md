@@ -89,13 +89,13 @@
 - Lee Mujin - When it snows (Feat. Heize)
 - IU - Hold my hand
 - YOUNHA - Event Horizon
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- IU - Celebrity
+- (G)I-DLE - MY BAG
+- aespa - Savage
+- IU - LILAC
+- aespa - Dreams Come True
+- AKMU - How can I love the heartbreak, you're the one I love
+- BOL4 - Love story
 - 
 - 
 - 
@@ -141,22 +141,7 @@
 
 
 
-IU - Celebrity
-(G)I-DLE - MY BAG
-aespa - Savage
-10CM - Gradation
-Tophyun - Horangsuwolga
-IU - LILAC
-BTS - Spring Day
-BE'O - Suddenly
-aespa - Dreams Come True
-AKMU - How can I love the heartbreak, you're the one I love
-BOL4 - Love story
-Basick - Meeting is easy, parting is hard (Feat. Leellamarz) (Prod. TOIL)
-Homies - Siren Remix (Feat. UNEDUCATED KID, Paul Blanco)
-Joosiq - Baby I Need You
-An Nyeong - Haeyo (2022)
-IU - Blueming
+
 MAKTUB - The Eternal Moment
 MeloMance - Go Back
 ITZY - SNEAKERS
@@ -228,7 +213,6 @@ IVE - My Satisfaction - 11,457,482
 
 
 
-(G)I-DLE - My Bag - 59,440,118
 (G)I-DLE - Never Stop Me - 9,156,495
 (G)I-DLE - Villain Dies - 8,0787,758
 (G)I-DLE - Escape - 5,749,995

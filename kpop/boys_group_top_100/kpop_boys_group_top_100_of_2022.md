@@ -74,15 +74,15 @@
 - BTS - Permission to Dance
 - Lim Young Woong - Our Blues, Our Life
 - MSG WANNABE (M.O.M) - Foolish Love
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- 10CM - Gradation
+- Tophyun - Horangsuwolga
+- BTS - Spring Day
+- BE'O - Suddenly
+- Basick - Meeting is easy, parting is hard (Feat. Leellamarz) (Prod. TOIL)
+- Homies - Siren Remix (Feat. UNEDUCATED KID, Paul Blanco)
+- Joosiq - Baby I Need You
+- An Nyeong - Haeyo (2022)
+- IU - Blueming
 - 
 - 
 - 
