@@ -96,6 +96,7 @@
 - aespa - Dreams Come True
 - AKMU - How can I love the heartbreak, you're the one I love
 - BOL4 - Love story
+- IU - Blueming
 - 
 - 
 - 

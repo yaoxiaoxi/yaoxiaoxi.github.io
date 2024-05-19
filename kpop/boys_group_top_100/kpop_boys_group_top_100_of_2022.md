@@ -82,7 +82,6 @@
 - Homies - Siren Remix (Feat. UNEDUCATED KID, Paul Blanco)
 - Joosiq - Baby I Need You
 - An Nyeong - Haeyo (2022)
-- IU - Blueming
 - 
 - 
 - 
