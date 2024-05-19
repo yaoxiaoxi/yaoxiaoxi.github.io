@@ -48,7 +48,6 @@
 - YOOA (OH MY GIRL) - SELFISH
 - KEP1ER - UP!
 - KEP1ER - WA DA DA
-- KEP1ER - WE FRESH
 - KARD - RING THE ALARM
 - LIGHTSUM - ALIVE
 - NMIXX - DICE
@@ -142,23 +141,15 @@
 
 
 
-
-MAKTUB - The Eternal Moment
-MeloMance - Go Back
-ITZY - SNEAKERS
 Brave Girls - Rollin'
 Heize - HAPPEN
-NewJeans - Cookie
 Lim Young Woong - If We Ever Meet Again
 IU - Winter Sleep
-BLACKPINK - Shut Down
 OH MY GIRL - Dun Dun Dance
 10CM - Drawer
 JAURIM - Twenty-five, twenty-one
-LE SSERAFIM - ANTIFRAGILE
 Kassy - Don't wanna leave tonight
 AKMU - NAKKA (with IU)
-Jessi - ZOOM
 Crush - Rush Hour (Feat. j-hope of BTS)
 Kim Seungmin - My Pleasure Is That You Ride The Bentley
 Whee In - You, you (Nth Romance X Whee In)
@@ -175,31 +166,20 @@ Jung Dong Ha - I Still Love You
 
 
 
-BLACKPINK - Shut Down - 253,879,232
-BLACKPINK - Typa Girl - 103,630,287
-BLACKPINK - Hard To Love - 69,994,810
-BLACKPINK - The Happiest Girl - 55,205,669
-BLACKPINK - Tally - 54,375,191
-BLACKPINK - Yeah Yeah Yeah - 48,553,094
-BLACKPINK - Ready For Love - 45,129,982
 
 
 
 
-LE SSERAFIM - Antifragile - 106,453,009
 LE SSERAFIM - Sour Grape - 54,442,610
 LE SSERAFIM - Good Parts (when the quality is bad but i am) - 15,080,609
 LE SSERAFIM - The Great Mermaid - 13,363,309
 LE SSERAFIM - No Celestial - 9,964,991
 LE SSERAFIM - The Hydra - 5,756,782
 LE SSERAFIM - The World Is My Oyster - 5,714,253
-LE SSERAFIM - Fearless (Japanese version) - 659,761
 
 
 
 
-NEWJEANS - Cookie - 60,899,157
-NEWJEANS - Ditto - 37,227,537
 NEWJEANS - Hurt - 36,941,847
 
 
@@ -231,8 +211,6 @@ IVE - My Satisfaction - 11,457,482
 
 
 
-KEP1ER - Wa Da Da - 130,127,236
-KEP1ER - Up! - 35,325,454
 KEP1ER - MVSK - 12,475,222
 KEP1ER - Purr - 7,103,374
 KEP1ER - The Girls - 6,304,754
@@ -242,34 +220,23 @@ KEP1ER - Le Voya9e - 3,322,549
 KEP1ER - Good Night - 1,422,594
 KEP1ER - Rewind - 1,368,069
 KEP1ER - Sugar Rush - 1,334,972
-KEP1ER - Wa Da Da (Queendom2 version) - 1,264,404
 KEP1ER - Dreams - 693,011
-KEP1ER - Wa Da Da (Japanese version) - 633,111
 KEP1ER - Downtown - 592,509
 KEP1ER - Lion Tamer - 568,997
-KEP1ER - Up! (Japanese version) - 324,658
 
 
 
 
-NMIXX - O.O - 106,747,951
 NMIXX - Tank - 32,848,516
 NMIXX - Cool (Your Rainbow) - 6,772,064
 NMIXX - Kiss - 2,385,387
 NMIXX - Funky Glitter Christmas - 1,476,842
-NMIXX - Tank instrumental - 1,368,270
-NMIXX - O.O instrumental - 1,268,528
 NMIXX - Hey Gabby! - 806,033
 NMIXX - Sprinkle Party - 361,795
-NMIXX - Cool instrumental - 341,774
-NMIXX - Kiss instrumental - 118,216
-NMIXX - Hey Gabby! instrumental - 85,653
-NMIXX - Sprinkle Part intrumental - 76,032
 
 
 
 
-TWICE - Talk that Talk - 114,242,538
 TWICE - Basics - 17,453,509
 TWICE - Queen of Hearts - 15,054,496
 TWICE - Brave - 7,978,204
@@ -282,21 +249,16 @@ TWICE - When We Were Kids - 6,185,158
 
 
 
-AESPA - Life's Too Short (English version) - 33,433,276
 AESPA - Lingo - 5,051,875
 AESPA - ICU - 4,325,227
-AESPA - Life's Too Short - 3,734,942
 AESPA - Beautiful Christmas - 2,197,981
-AESPA - Life's Too Short instrumental - 582,363
 
 
 
 
 
-RED VELVET - Feel My Rythm - 90,072,848
 RED VELVET - In My Dreams - 14,526,917
 RED VELVET - Bamboleo - 9,121,541
-RED VELVET - Birthday - 8,659,587
 RED VELVET - Beg For Me - 7,746,331
 RED VELVET - Raindow Halo - 5,907,101
 RED VELVET - Bye Bye - 4,910,072
