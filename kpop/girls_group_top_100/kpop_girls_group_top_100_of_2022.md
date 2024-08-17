@@ -48,6 +48,7 @@
 - YOOA (OH MY GIRL) - SELFISH
 - KEP1ER - UP!
 - KEP1ER - WA DA DA
+- KEP1ER - WE FRESH
 - KARD - RING THE ALARM
 - LIGHTSUM - ALIVE
 - NMIXX - DICE
@@ -98,8 +99,9 @@
 - IU - Blueming
 - Brave Girls - Rollin'
 - Heize - HAPPEN
-- Lim Young Woong - If We Ever Meet Again
 - IU - Winter Sleep
+- OH MY GIRL - Dun Dun Dance
+- 
 - 
 - 
 - 
@@ -136,7 +138,16 @@
 
 
 
-OH MY GIRL - Dun Dun Dance
+
+
+
+
+
+
+
+
+
+
 10CM - Drawer
 JAURIM - Twenty-five, twenty-one
 Kassy - Don't wanna leave tonight
