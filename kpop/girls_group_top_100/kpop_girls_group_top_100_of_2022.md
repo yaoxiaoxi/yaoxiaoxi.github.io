@@ -101,10 +101,10 @@
 - Heize - HAPPEN
 - IU - Winter Sleep
 - OH MY GIRL - Dun Dun Dance
-- 
-- 
-- 
-- 
+- JAURIM - Twenty-five, twenty-one
+- Kassy - Don't wanna leave tonight
+- AKMU - NAKKA (with IU)
+- Whee In - You, you (Nth Romance X Whee In)
 - 
 - 
 - 
@@ -148,13 +148,10 @@
 
 
 
-10CM - Drawer
-JAURIM - Twenty-five, twenty-one
-Kassy - Don't wanna leave tonight
-AKMU - NAKKA (with IU)
-Crush - Rush Hour (Feat. j-hope of BTS)
-Kim Seungmin - My Pleasure Is That You Ride The Bentley
-Whee In - You, you (Nth Romance X Whee In)
+
+
+
+
 BTS - Yet To Come
 V - Christmas Tree
 Lim Young Woong - Rainbow
