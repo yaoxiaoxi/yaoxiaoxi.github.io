@@ -105,6 +105,7 @@
 - Kassy - Don't wanna leave tonight
 - AKMU - NAKKA (with IU)
 - Whee In - You, you (Nth Romance X Whee In)
+- BIBI - Maybe If
 - 
 - 
 - 
@@ -127,7 +128,6 @@
 - 
 - 
 - 
-- 
 
 
 
@@ -152,41 +152,25 @@
 
 
 
-BTS - Yet To Come
-V - Christmas Tree
-Lim Young Woong - Rainbow
-Tei - Monologue
-MAKTUB - To You My Light (Feat. Lee Raon)
-Wonstein - Your Existence
-Sandeul - Slightly Tipsy (She is My Type♡ X SANDEUL)
-BIBI - Maybe If
-Jung Dong Ha - I Still Love You
+
+LE SSERAFIM - Sour Grape
+LE SSERAFIM - Good Parts (when the quality is bad but i am)
+LE SSERAFIM - The Great Mermaid
+LE SSERAFIM - No Celestial
+LE SSERAFIM - The Hydra
+LE SSERAFIM - The World Is My Oyster
+
+
+
+
+NEWJEANS - Hurt
 
 
 
 
 
-
-
-
-LE SSERAFIM - Sour Grape - 54,442,610
-LE SSERAFIM - Good Parts (when the quality is bad but i am) - 15,080,609
-LE SSERAFIM - The Great Mermaid - 13,363,309
-LE SSERAFIM - No Celestial - 9,964,991
-LE SSERAFIM - The Hydra - 5,756,782
-LE SSERAFIM - The World Is My Oyster - 5,714,253
-
-
-
-
-NEWJEANS - Hurt - 36,941,847
-
-
-
-
-
-IVE - Royal - 18,364,105
-IVE - My Satisfaction - 11,457,482
+IVE - Royal
+IVE - My Satisfaction
 
 
 
