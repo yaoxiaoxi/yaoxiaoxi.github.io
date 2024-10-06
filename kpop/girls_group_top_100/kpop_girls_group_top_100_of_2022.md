@@ -106,6 +106,13 @@
 - AKMU - NAKKA (with IU)
 - Whee In - You, you (Nth Romance X Whee In)
 - BIBI - Maybe If
+- LE SSERAFIM - Sour Grape
+- LE SSERAFIM - Good Parts (when the quality is bad but i am)
+- LE SSERAFIM - The Great Mermaid
+- LE SSERAFIM - No Celestial
+- LE SSERAFIM - The Hydra
+- IVE - Royal
+- IVE - My Satisfaction
 - 
 - 
 - 
@@ -121,13 +128,6 @@
 - 
 - 
 - 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 
 
 
@@ -153,24 +153,6 @@
 
 
 
-LE SSERAFIM - Sour Grape
-LE SSERAFIM - Good Parts (when the quality is bad but i am)
-LE SSERAFIM - The Great Mermaid
-LE SSERAFIM - No Celestial
-LE SSERAFIM - The Hydra
-LE SSERAFIM - The World Is My Oyster
-
-
-
-
-NEWJEANS - Hurt
-
-
-
-
-
-IVE - Royal
-IVE - My Satisfaction
 
 
 
