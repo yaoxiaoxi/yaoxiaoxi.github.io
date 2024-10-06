@@ -113,6 +113,22 @@
 - LE SSERAFIM - The Hydra
 - IVE - Royal
 - IVE - My Satisfaction
+- (G)I-DLE - Never Stop Me
+- (G)I-DLE - Villain Dies
+- (G)I-DLE - Escape
+- (G)I-DLE - Change
+- (G)I-DLE - Polaroid
+- (G)I-DLE - Dark (x-file)
+- (G)I-DLE - Reset
+- KEP1ER - MVSK
+- KEP1ER - Purr
+- KEP1ER - The Girls
+- KEP1ER - See The Light
+- KEP1ER - Le Voya9e
+- KEP1ER - Rewind
+- KEP1ER - Sugar Rush
+- KEP1ER - Dreams
+- KEP1ER - Lion Tamer
 - 
 - 
 - 
@@ -122,12 +138,6 @@
 - 
 - 
 - 
-- 
-- 
-- 
-- 
-- 
-- 
 
 
 
@@ -159,76 +169,50 @@
 
 
 
-(G)I-DLE - Never Stop Me - 9,156,495
-(G)I-DLE - Villain Dies - 8,0787,758
-(G)I-DLE - Escape - 5,749,995
-(G)I-DLE - Already - 5,357,178
-(G)I-DLE - Liar - 4,748,820
-(G)I-DLE - Change - 4,508,808
-(G)I-DLE - Polaroid - 4,453,392
-(G)I-DLE - Love - 3,226,421
-(G)I-DLE - Dark (x-file) - 2,941,583
-(G)I-DLE - Reset - 2,224,074
-(G)I-DLE - Sculpture - 2,130,438
 
 
 
 
 
 
-KEP1ER - MVSK - 12,475,222
-KEP1ER - Purr - 7,103,374
-KEP1ER - The Girls - 6,304,754
-KEP1ER - See The Light - 4,832,001
-KEP1ER - We Fresh - 4,504,521
-KEP1ER - Le Voya9e - 3,322,549
-KEP1ER - Good Night - 1,422,594
-KEP1ER - Rewind - 1,368,069
-KEP1ER - Sugar Rush - 1,334,972
-KEP1ER - Dreams - 693,011
-KEP1ER - Downtown - 592,509
-KEP1ER - Lion Tamer - 568,997
+
+NMIXX - Tank
+NMIXX - Cool (Your Rainbow)
+NMIXX - Kiss
+NMIXX - Funky Glitter Christmas
+NMIXX - Hey Gabby!
+NMIXX - Sprinkle Party
 
 
 
 
-NMIXX - Tank - 32,848,516
-NMIXX - Cool (Your Rainbow) - 6,772,064
-NMIXX - Kiss - 2,385,387
-NMIXX - Funky Glitter Christmas - 1,476,842
-NMIXX - Hey Gabby! - 806,033
-NMIXX - Sprinkle Party - 361,795
-
-
-
-
-TWICE - Basics - 17,453,509
-TWICE - Queen of Hearts - 15,054,496
-TWICE - Brave - 7,978,204
-TWICE - Trouble - 7,573,635
-TWICE - Gone - 7,197,405
-TWICE - When We Were Kids - 6,185,158
+TWICE - Basics
+TWICE - Queen of Hearts
+TWICE - Brave
+TWICE - Trouble
+TWICE - Gone
+TWICE - When We Were Kids
 
 
 
 
 
 
-AESPA - Lingo - 5,051,875
-AESPA - ICU - 4,325,227
-AESPA - Beautiful Christmas - 2,197,981
+AESPA - Lingo
+AESPA - ICU
+AESPA - Beautiful Christmas
 
 
 
 
 
-RED VELVET - In My Dreams - 14,526,917
-RED VELVET - Bamboleo - 9,121,541
-RED VELVET - Beg For Me - 7,746,331
-RED VELVET - Raindow Halo - 5,907,101
-RED VELVET - Bye Bye - 4,910,072
-RED VELVET - Good, Bad, Ugly - 4,502,942
-RED VELVET - On A Ride - 3,124,662
-RED VELVET - Zoom - 2,787,132
-RED VELVET - Celebrate - 2,374,754
-RED VELVET - Beautiful Christmas - 2,197,981
+RED VELVET - In My Dreams
+RED VELVET - Bamboleo
+RED VELVET - Beg For Me
+RED VELVET - Raindow Halo
+RED VELVET - Bye Bye
+RED VELVET - Good, Bad, Ugly
+RED VELVET - On A Ride
+RED VELVET - Zoom
+RED VELVET - Celebrate
+RED VELVET - Beautiful Christmas
