@@ -46,50 +46,6 @@
 
 
 
-
-AKMU - Love Lee
-Jay Park & Zion.T - Candy
-RIIZE - Get a Guitar
-Jinbo, GSoul & touch - Good Life
-Sik-K - 5882 (OPPA ASAP)
-Chuu - Howl
-ENHYPEN - Sweet Venom
-Woody - Marry Me
-The New Six - Love or Die
-Sung Si Kyung & Naul - Even for a Moment
-tripleS - Girls'Capitalism
-Stray Kids - LALALALA
-Jung Yong Hwa - Your City
-Dynamicduo & Lee Youngji - Smoke
-So!YoON! & RM - Smoke Sprite
-iKON - U
-Crush - Hmm-cheat
-
-aespa - Spicy
-BSS (Seventeen) - Fighting (feat. Lee Young-ji)
-Jisoo - Flower
-LE SSERAFIM - Unforgiven (feat. Nile Rodgers)
-NCT Dream - Candy
-NewJeans - Ditto
-Parc Jae Jung - Let's Say Goodbye
-STAYC - Teddy Bear 
-
-
-RIIZE - Memories
-IVE - Blue Blood
-NewJeans - ETA
-KISS OF LIFE - Sugarcoat
-fromis_9 - Attitude
-aespa - Drama
-VIVIZ - Untie
-tripleS - Speed Love
-Red Velvet - Knock Knock (Whos There?)
-NewJeans - OMG
-SEVENTEEN - Super
-Key - CoolAs
-
-
-
 https://www.dazeddigital.com/music/article/61593/1/the-best-k-pop-tracks-of-2023-jung-kook-newjeans-aespa-bts?utm_term=the-50-best-k-pop-tracks-of-2023
 
 RED VELVET - CHILL KILL
@@ -142,6 +98,50 @@ SEVENTEEN - I DON'T UNDERSTAND BUT I LUV U
 BIBI - HONGDAE R&B
 EXO - LET ME IN
 MONSTA X - BEAUTIFUL LIAR
+
+
+
+
+AKMU - Love Lee
+Jay Park & Zion.T - Candy
+RIIZE - Get a Guitar
+Jinbo, GSoul & touch - Good Life
+Sik-K - 5882 (OPPA ASAP)
+Chuu - Howl
+ENHYPEN - Sweet Venom
+Woody - Marry Me
+The New Six - Love or Die
+Sung Si Kyung & Naul - Even for a Moment
+tripleS - Girls'Capitalism
+Stray Kids - LALALALA
+Jung Yong Hwa - Your City
+Dynamicduo & Lee Youngji - Smoke
+So!YoON! & RM - Smoke Sprite
+iKON - U
+Crush - Hmm-cheat
+
+aespa - Spicy
+BSS (Seventeen) - Fighting (feat. Lee Young-ji)
+Jisoo - Flower
+LE SSERAFIM - Unforgiven (feat. Nile Rodgers)
+NCT Dream - Candy
+NewJeans - Ditto
+Parc Jae Jung - Let's Say Goodbye
+STAYC - Teddy Bear 
+
+
+RIIZE - Memories
+IVE - Blue Blood
+NewJeans - ETA
+KISS OF LIFE - Sugarcoat
+fromis_9 - Attitude
+aespa - Drama
+VIVIZ - Untie
+tripleS - Speed Love
+Red Velvet - Knock Knock (Whos There?)
+NewJeans - OMG
+SEVENTEEN - Super
+Key - CoolAs
 
 
 
