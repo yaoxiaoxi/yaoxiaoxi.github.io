@@ -45,7 +45,7 @@
 
 
 
-
+下面第一段的50首歌, 在这个页面里都有 youtube 的链接
 https://www.dazeddigital.com/music/article/61593/1/the-best-k-pop-tracks-of-2023-jung-kook-newjeans-aespa-bts?utm_term=the-50-best-k-pop-tracks-of-2023
 
 RED VELVET - CHILL KILL
