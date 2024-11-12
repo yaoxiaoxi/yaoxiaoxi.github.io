@@ -1,0 +1,29 @@
+# FavoritreMusic
+
+- 小时 龚骏 - 爱殇(【東宮】插曲) https://www.youtube.com/watch?v=yzDlU_VEDYA&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=1
+- 小时 龚骏 - 爱殇 https://www.youtube.com/watch?v=I4hrHbdDkTs&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=2
+- 陈楚生 - 思念是一种病 https://www.youtube.com/watch?v=kcmh9AfAyiM&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=3
+- 告五人 - 爱人错过 https://www.youtube.com/watch?v=6D79CYTxvOM&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=4
+- 卫兰 - 一格格 https://www.youtube.com/watch?v=N1jdWcmEv0Q&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=6
+- 咻咻满 - 孤勇者 https://www.youtube.com/watch?v=Je6r_DqkPqU&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=7
+- Beyond - Lover https://www.youtube.com/watch?v=OWOghwTDcBc&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=8
+- MOMOLAND - BAAM https://www.youtube.com/watch?v=o2B2QE8Q9-A&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=9
+- MOMOLAND - BBoom BBoom(Nancy) https://www.youtube.com/watch?v=5Kf446pxd3E&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=10
+- MAMAMOO - Decalcomanie https://www.youtube.com/watch?v=o0I8YjeWfQU&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=11
+- N.Flying - Rooftop https://www.youtube.com/watch?v=VpaUh_BGqE0&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=12
+- Shawn Mendes - Señorita https://www.youtube.com/watch?v=Pkh8UtuejGw&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=13
+- 林忆莲 - 盛夏光年 https://www.youtube.com/watch?v=Eso_PkuYlB4&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=14
+- 乐团ZONE - secret base https://www.youtube.com/watch?v=mIIb3Jf06AA&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=15
+- 赵方婧 - 芒种 https://www.youtube.com/watch?v=8L2ds1XxrvA&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=16
+- 范晓萱 - 眼泪 https://www.youtube.com/watch?v=figbp9tfyl4&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=17
+- 喜剧之王 - BGM 久石让 Here We Are Again https://www.youtube.com/watch?v=M6hACtuFvPU&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=1
+- 王馨平 - 别问我是谁 https://www.youtube.com/watch?v=HZ86kQzjanQ&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=18
+- 创造101 王晴全组 - Marry you https://www.youtube.com/watch?v=dyQ7IrKzBF4&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=19
+- 七匹狼 - 永远不回头 https://www.youtube.com/watch?v=99L8MCPXTUg&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=20
+- 勇者ヨシヒコと悪霊の鍵ED - Moumoon -どこへも行かないよ Full Ver https://www.youtube.com/watch?v=NPnUwDtC-eM&list=PL5fxPYqFjYFiG9mVojDTbbIyZXI8njeke&index=21
+- 
+- 
+- 
+- 
+- 
+- 
