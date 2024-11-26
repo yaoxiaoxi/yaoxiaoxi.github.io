@@ -1,4 +1,4 @@
-# MyCollection
+# MyCollection (尽在这里备份, 等那边被禁了, 在添加进 yaoxiaoxi 里)
 
 - https://www.youtube.com/watch?v=Z4TCI9XubWE
 - 은채도 Like It's Magnetic https://www.youtube.com/watch?v=DKCUC46w7Fo
