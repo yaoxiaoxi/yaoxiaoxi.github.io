@@ -1,4 +1,4 @@
-# FavoriteMusic (尽在这里备份, 等那边被禁了, 在添加进 yaoxiaoxi 里)
+# FavoriteMusic (只在这里备份, 等那边被禁了, 再添加进 yaoxiaoxi 里)
 
 - 小时 龚骏 - 爱殇(【東宮】插曲) https://www.youtube.com/watch?v=yzDlU_VEDYA
 - 小时 龚骏 - 爱殇 https://www.youtube.com/watch?v=I4hrHbdDkTs
