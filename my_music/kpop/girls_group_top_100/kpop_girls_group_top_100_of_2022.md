@@ -129,90 +129,27 @@
 - KEP1ER - Sugar Rush
 - KEP1ER - Dreams
 - KEP1ER - Lion Tamer
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-NMIXX - Tank
-NMIXX - Cool (Your Rainbow)
-NMIXX - Kiss
-NMIXX - Funky Glitter Christmas
-NMIXX - Hey Gabby!
-NMIXX - Sprinkle Party
-
-
-
-
-TWICE - Basics
-TWICE - Queen of Hearts
-TWICE - Brave
-TWICE - Trouble
-TWICE - Gone
-TWICE - When We Were Kids
-
-
-
-
-
-
-AESPA - Lingo
-AESPA - ICU
-AESPA - Beautiful Christmas
-
-
-
-
-
-RED VELVET - In My Dreams
-RED VELVET - Bamboleo
-RED VELVET - Beg For Me
-RED VELVET - Raindow Halo
-RED VELVET - Bye Bye
-RED VELVET - Good, Bad, Ugly
-RED VELVET - On A Ride
-RED VELVET - Zoom
-RED VELVET - Celebrate
-RED VELVET - Beautiful Christmas
+- NMIXX - Tank
+- NMIXX - Cool (Your Rainbow)
+- NMIXX - Kiss
+- NMIXX - Funky Glitter Christmas
+- NMIXX - Hey Gabby!
+- NMIXX - Sprinkle Party
+- TWICE - Basics
+- TWICE - Queen of Hearts
+- TWICE - Brave
+- TWICE - Trouble
+- TWICE - Gone
+- TWICE - When We Were Kids
+- AESPA - Lingo
+- AESPA - ICU
+- AESPA - Beautiful Christmas
+- RED VELVET - In My Dreams
+- RED VELVET - Bamboleo
+- RED VELVET - Beg For Me
+- RED VELVET - Raindow Halo
+- RED VELVET - Bye Bye
+- RED VELVET - Good, Bad, Ugly
+- RED VELVET - On A Ride
+- RED VELVET - Zoom
+- RED VELVET - Celebrate
