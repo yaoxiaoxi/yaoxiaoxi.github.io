@@ -2,9 +2,9 @@
 ## 1. 收藏的网站
 ### 1) 影视剧
 - PT (下载)
-  - [torrentleech](https://www.torrentleech.org)
   - [springsunday] (https://springsunday.net)
   - [BTSchool]     (https://pt.btschool.club)
+  - [torrentleech](https://www.torrentleech.org)
   - [thepiratebay] (https://thepiratebay.org)
 
 - online (在线观看)
